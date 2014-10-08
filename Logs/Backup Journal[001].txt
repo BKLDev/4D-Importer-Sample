@@ -1,0 +1,17 @@
+*** Full Backup
+Creating archive : Macintosh HD:Users:BMan:Desktop:import sample:Importer Sample.4dbase:Importer Sample[0001].4BK
+Creating log backup : Macintosh HD:Users:BMan:Desktop:import sample:Importer Sample.4dbase:Importer Sample[0000].4BL
+Scheduled : 10/05/14 00:00:00
+Starting : 10/05/14 18:01:53
+Ending : 10/05/14 18:01:55
+
+*** Full Backup
+Creating archive : C:\Users\BKL\Documents\GitHub\Importer Sample.4dbase\Importer Sample[0001].4BK
+Attachment(s): 
+	C:\Users\BKL\Documents\GitHub\Importer Sample.4dbase\Importer Sample.4DSyncHeader [NOT FOUND]
+	C:\Users\BKL\Documents\GitHub\Importer Sample.4dbase\Importer Sample.4DSyncData [NOT FOUND]
+	C:\Users\BKL\Documents\GitHub\Importer Sample.4dbase\Importer Sample.4DIndx [OK]
+Scheduled 10/7/2014 7:57
+Starting 10/7/2014 7:57
+Ending 10/7/2014 7:57
+
